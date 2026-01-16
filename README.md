@@ -7,10 +7,10 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm Kalagotla Sindhuja</h1>
-<h3 align="center">Frontend Developer | React | JavaScript | UI Enthusiast 🚀</h3>
+<h3 align="center">Frontend Developer | Creator@SCP'25 | React | UI Enthusiast 🚀</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=650&lines=Frontend+Developer;React+%7C+JavaScript+%7C+HTML+CSS;Building+Responsive+Web+Apps;Learning+by+Building+Projects+%F0%9F%9A%80" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=850&lines=Frontend+Developer;Creator+and+Tech+Moderator+at+SCP+2026;React+%7C+JavaScript+%7C+HTML+CSS;Building+Responsive+Web+Apps;Learning+by+Building+Projects+%F0%9F%9A%80" />
 </p>
 
 <p align="center">
@@ -31,10 +31,10 @@
 <img align="right" alt="procoder" src="https://user-images.githubusercontent.com/74038190/221352975-94759904-aa4c-4032-a8ab-b546efb9c478.gif" width="300" />
 
 - 💻 I’m a **Frontend Developer**
-- 🌱 Currently learning **React & building projects**
+- 🌱 Currently studying in **3rd year**
 - 🎯 Interested in **UI Development & Responsive Design**
-- 🤝 Open to collaborating on **Frontend projects**
-- 💬 Ask me about **HTML, CSS, JavaScript, React**
+- 🤝 Open to collaborating on **Frontend projects & Internships**
+- 💬 Ask me about **JavaScript,React js,Node js,Next js**
 - 📩 Reach me at: **kalagotlasindhuja06@gmail.com**
 
 <br/><br/>
@@ -105,7 +105,7 @@
 <br/>
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=hemanthkumar-21&theme=shadow_blue&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=sindhu6547&theme=radical&no-frame=true&margin-w=15&cache_seconds=86400)
 
 <br/>
 
