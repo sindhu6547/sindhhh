@@ -1,9 +1,12 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/sindhu6547/sindhu6547/main/banner.png" width="100%" />
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" />
 </p>
 
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/221352995-5ac18bdf-1a19-4f99-bbb6-77559b220470.gif" width="100%" />
+</p>
 
-<h1 align="center">Hi 👋, I'm Sindhuja Kalagotla</h1>
+<h1 align="center">Hi 👋, I'm Kalagotla Sindhuja</h1>
 <h3 align="center">Frontend Developer | React | JavaScript | UI Enthusiast 🚀</h3>
 
 <p align="center">
@@ -22,9 +25,11 @@
   </a>
 </p>
 
-<img align="center" width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png"/>
+<br/>
 
 ## 🌟 About Me
+<img align="right" alt="procoder" src="https://user-images.githubusercontent.com/74038190/221352975-94759904-aa4c-4032-a8ab-b546efb9c478.gif" width="300" />
+
 - 💻 I’m a **Frontend Developer**
 - 🌱 Currently learning **React & building projects**
 - 🎯 Interested in **UI Development & Responsive Design**
@@ -32,8 +37,7 @@
 - 💬 Ask me about **HTML, CSS, JavaScript, React**
 - 📩 Reach me at: **kalagotlasindhuja06@gmail.com**
 
-
----
+<br/><br/>
 
 ## 🌐 Connect With Me
 <p align="left">
@@ -43,13 +47,14 @@
   <a href="mailto:kalagotlasindhuja06@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-Mail%20Me-red?style=for-the-badge&logo=gmail" />
   </a>
-
+  <a href="https://drive.google.com/file/d/1Sp7gBtZ442ByvEeb8wTdHnVvlm5jddN8/view?usp=drivesdk" target="_blank">
+    <img src="https://img.shields.io/badge/Resume-View%20Resume-green?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" />
+  </a>
 </p>
 
----
+<br/>
 
-## 💻 Tech Stack:
-
+## 💻 Tech Stack
 <p align="left">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
@@ -72,8 +77,7 @@
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </p>
 
-
----
+<br/>
 
 ## 🚀 Featured Projects
 | Project | Description | Tech Stack | Live Demo |
@@ -81,34 +85,37 @@
 | 🎬 Netflix Website Clone | Netflix UI clone with responsive design | HTML, CSS, JavaScript | [Live](https://personal-portfolio-alpha-red.vercel.app/) |
 | 🎓 Edusity Website Clone | Educational website UI clone | React JS | [Live](https://edusity-website-clone.netlify.app/) |
 
----
-
-
-
-## 🔥 GitHub Streak
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=sindhu6547" height="170"/>
-</p>
+<br/>
 
 ## 📊 GitHub Stats
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sindhu6547&show_icons=true" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sindhu6547&layout=compact" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sindhu6547&theme=blue-green&hide_border=true" height="170"/>
 </p>
+
+<p align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sindhu6547&theme=blue_green" height="150"/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sindhu6547&theme=blue_green" height="150"/>
+</p>
+
+<p align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sindhu6547&theme=blue_green&utcOffset=5.5" height="150"/>
+</p>
+
+<br/>
 
 ## 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sindhu6547&margin-w=10&margin-h=10" />
-</p>
+![](https://github-profile-trophy.vercel.app/?username=hemanthkumar-21&theme=shadow_blue&no-frame=false&no-bg=true&margin-w=4)
 
-
----
+<br/>
 
 ## 💡 Random Dev Quote
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
 </p>
 
-<img align="center" width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png"/>
+<h2 align="center">⭐ Fork 🍴 to create yours & Support 🌟 Happy Coding 😊</h2>
 
-<h2 align="center"  >⭐ Fork 🍴 to create yours & Support 🌟 Happy Coding 😊</h2>
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" />
+</p>
