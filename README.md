@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212750674-1d5b7c6b-7a3d-4b62-9e53-5d7e1c7a6c7b.gif" width="100%" />
+  <img src="https://raw.githubusercontent.com/sindhu6547/sindhu6547/main/banner.png" width="100%" />
 </p>
 
 
@@ -23,7 +23,6 @@
 </p>
 
 <img align="center" width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png"/>
-<img align="right" alt="coding" width="330" src="https://user-images.githubusercontent.com/74038190/212750674-1d5b7c6b-7a3d-4b62-9e53-5d7e1c7a6c7b.gif" />
 
 ## 🌟 About Me
 - 💻 I’m a **Frontend Developer**
@@ -33,7 +32,6 @@
 - 💬 Ask me about **HTML, CSS, JavaScript, React**
 - 📩 Reach me at: **kalagotlasindhuja06@gmail.com**
 
-<img align="right" alt="coding" width="330" src="https://user-images.githubusercontent.com/74038190/212750674-1d5b7c6b-7a3d-4b62-9e53-5d7e1c7a6c7b.gif"/>
 
 ---
 
