@@ -104,16 +104,21 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sindhuja-80&theme=blue-green&hide_border=true" height="170"/>
-</p>
-
-<p align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sindhuja-80&theme=blue_green" height="150"/>
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sindhuja-80&theme=blue_green" height="150"/>
-</p>
-
-<p align="center">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sindhuja-80&theme=blue_green&utcOffset=5.5" height="150"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=sindhuja-80&theme=blue-green&hide_border=true&include_all_commits=false&count_private=true"/>
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=sindhuja-80&theme=blue-green&hide_border=true&include_all_commits=false&count_private=true&layout=compact"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats-fast.vercel.app/api/streak/?username=sindhuja-80&theme=blue-green&hide_border=true"/>
+</p>
+
+<p align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sindhuja-80&theme=blue_green"/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sindhuja-80&theme=blue_green"/>
 </p>
 
 ## 🏆 GitHub Trophies
